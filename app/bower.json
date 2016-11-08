@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-starter-kit",
+  "main": "app/index.html",
+  "authors": [
+    "Qiangjun Ran <jungle@ranqiangjun.com>"
+  ],
+  "description": "Bootstrap Starter Kit",
+  "keywords": [
+    "Jungle",
+    "jQuery",
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "ranqiangjun.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7",
+    "html5shiv": "^3.7.3",
+    "respond": "^1.4.2",
+    "jquery": "1.9.1"
+  },
+  "version": "1.0.0"
+}
